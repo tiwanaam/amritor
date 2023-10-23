@@ -17,3 +17,5 @@ Depends:
     usethis,
     devtools,
     testthat
+URL: https://github.com/tiwanaam/amritor
+BugReports: https://github.com/tiwanaam/amritor/issues
